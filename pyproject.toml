@@ -1,0 +1,9 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "das_iboot"
+author = "Rick Mark"
+author-email = "rickmark@guardianapp.com"
+home-page = "https://github.com/GuardianFirewall/das-iboot"
